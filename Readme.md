@@ -72,8 +72,16 @@ module.exports = {
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 
+To Install React Router or Dom
+npm install react-router
+npm install react-router-dom
 
+To install Pagination
+https://www.npmjs.com/package/react-responsive-pagination
 
+To install Axios
+https://www.npmjs.com/package/axios
+npm install axios
 
 
 
